@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asodeh\.android\build-cache\78d222477fa8fb01d62873900d140d44616e039a\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8d1bd0f45f433aae78862b48acfe9a66c251bb8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asodeh\.android\build-cache\e4b02e3ee6efbf37addd4ce279b5d299c38c1193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\classes_7aff1dfd5d2d044ff30ac017208c202a6b20750d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_614a82c679e40fbba534914a54630443a1438bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asodeh\.android\build-cache\49cffa09cc401fe3518fa523eec6e5d37d7a7de0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\classes_af846249a8db2332ff8cb7c0cccf08975b46ac56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asodeh\.android\build-cache\78d222477fa8fb01d62873900d140d44616e039a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\classes_a70b320edb995de0663ea53f2c0367d5260397a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asodeh\.android\build-cache\a44bb8746ee1c1626c3f016039076c1690878e3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\MyGithub\FaceDetector\app\build\intermediates\pre-dexed\debug\classes_5556fdf8dcb9d4303dc8d0bb06936e6f6e8e2e9b.jar" />
+    </item>
+
+</items>

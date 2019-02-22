@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:7:6-65
+	android:name
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:7:23-63
+uses-sdk
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asodeh\.android\build-cache\e4b02e3ee6efbf37addd4ce279b5d299c38c1193\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asodeh\.android\build-cache\a44bb8746ee1c1626c3f016039076c1690878e3c\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asodeh\.android\build-cache\49cffa09cc401fe3518fa523eec6e5d37d7a7de0\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asodeh\.android\build-cache\78d222477fa8fb01d62873900d140d44616e039a\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asodeh\.android\build-cache\e4b02e3ee6efbf37addd4ce279b5d299c38c1193\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:13:9-38
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:12:9-34
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:15:5-29:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asodeh\.android\build-cache\e4b02e3ee6efbf37addd4ce279b5d299c38c1193\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asodeh\.android\build-cache\a44bb8746ee1c1626c3f016039076c1690878e3c\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asodeh\.android\build-cache\49cffa09cc401fe3518fa523eec6e5d37d7a7de0\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asodeh\.android\build-cache\78d222477fa8fb01d62873900d140d44616e039a\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.mahdi20.facedetector.CameraActivity
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:21:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from F:\MyGithub\FaceDetector\app\src\main\AndroidManifest.xml:26:27-74
